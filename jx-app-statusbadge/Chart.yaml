@@ -1,0 +1,4 @@
+apiVersion: v1
+description: The Status Badge App for Jenkins X
+name: jx-app-statusbadge
+version: 0.1.0-SNAPSHOT

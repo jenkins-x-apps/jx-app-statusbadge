@@ -1,0 +1,11 @@
+{
+  "$id": "https://example.com/address.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "description": "values.yaml for jx-app-statusbadge",
+  "type": "object",
+  "properties": {
+    "statusbadge": {
+      "type": "object"
+    }
+  }
+}
