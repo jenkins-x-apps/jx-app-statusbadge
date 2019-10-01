@@ -3,5 +3,5 @@ dependencies:
   owner: jenkins-x
   repo: status-badge
   url: https://github.com/jenkins-x/status-badge
-  version: 0.0.7
-  versionURL: https://github.com/jenkins-x/status-badge/releases/tag/v0.0.7
+  version: 0.0.8
+  versionURL: https://github.com/jenkins-x/status-badge/releases/tag/v0.0.8
