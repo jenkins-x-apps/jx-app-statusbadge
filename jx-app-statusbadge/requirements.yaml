@@ -1,4 +1,4 @@
 dependencies:
 - name: status-badge
   repository: https://storage.googleapis.com/chartmuseum.jenkins-x.io
-  version: 0.0.8
+  version: 0.0.9
